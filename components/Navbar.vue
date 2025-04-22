@@ -35,7 +35,8 @@
     <!-- Mobile menu -->
     <div v-if="isOpen" class="md:hidden px-4 pb-4 bg-white shadow-md">
       <NuxtLink v-for="link in links" :key="link.label" :to="link.to"
-        class="block py-2 ml-2 text-gray-700 hover:text-gold transition duration-300 transform hover:scale-105">
+        class="block py-2 ml-2 text-gray-700 hover:text-gold transition duration-300 transform hover:scale-105"
+        @click="isOpen = false"> <!-- Cerrar menú al hacer clic -->
         {{ link.label }}
       </NuxtLink>
     </div>
