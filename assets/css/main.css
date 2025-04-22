@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import "@fontsource/cardo/index.css";
+
+
+/* Variables de color pastel tipo boda */
+:root {
+  --color-ivory: #f9f8f4;
+  --color-blush: #fce8e6;
+  --color-sage: #dfe7d6;
+  --color-lavender: #e8e6f8;
+  --color-dustyblue: #c7d4e5;
+  --color-gold: #f5e6c4;
+}
+
+/* Personalización base */
+body {
+  font-family: 'Cardo', serif;
+  background-color: var(--color-ivory);
+  color: #444;
+}
+
+/* Colores personalizados */
+.text-gold {
+  color: #d4af7f;
+  /* tono oro pastel */
+}
+
+.hover\:text-gold:hover {
+  color: #d4af7f;
+}
