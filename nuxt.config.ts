@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       link: [
         {
           rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&family=Libre+Baskerville&display=swap',
         },
         {
           rel: 'icon',

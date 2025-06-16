@@ -2,20 +2,33 @@
   <section class="w-full min-h-screen">
     <!-- Hero con imagen de fondo -->
     <div
-      class="relative w-full h-[90vh] bg-cover bg-center flex flex-col justify-center items-center text-black text-center px-6"
-      style="background-image: url('/images/fondo.jpg');">
-      <h1 class="text-4xl sm:text-5xl font-serif drop-shadow-md mb-8">Inicio</h1>
+      class="relative w-full h-screen bg-cover bg-center flex flex-col justify-center items-center text-white text-center px-6"
+      style="background-image: url('/images/ayd3.jpg');">
 
-      <a href="https://forms.office.com/r/tgY2g0HMyD" target="_blank"
-        class="bg-orange-50 text-gray-800 font-semibold py-3 px-8 rounded-full shadow-xl hover:shadow-2xl hover:bg-orange-100 transition-all duration-300 ease-in-out transform hover:scale-105 hover:-translate-y-1 border border-orange-100">
-        💌 Confirma tu asistencia
-      </a>
+      <!-- Contenido encima -->
+      <div class="relative z-10 flex flex-col items-center space-y-6 mt-24">
+        <h1 class="text-5xl sm:text-6xl font-garamond drop-shadow-md">Ángela y David</h1>
 
-      <div class="mt-6 space-y-1 text-xl font-light drop-shadow-sm">
-        <p>13 de septiembre de 2025</p>
-        <p>Iglesia de Santa Cruz, Sevilla</p>
+        <div class="space-y-1 text-3xl font-light drop-shadow-sm">
+          <p>13 de septiembre de 2025</p>
+          <p>Iglesia de Santa Cruz, Sevilla</p>
+        </div>
+
+        <div class="mt-56">
+          <a
+            href="https://forms.office.com/r/tgY2g0HMyD"
+            target="_blank"
+            class="relative inline-block text-lg font-semibold text-gray-800 bg-gradient-to-r from-orange-100 via-orange-50 to-orange-100 px-8 py-3 rounded-full border border-orange-200 shadow-md overflow-hidden transition-all duration-500 ease-in-out group hover:scale-105 hover:-translate-y-1 hover:shadow-orange-200"
+          >
+            <span
+              class="absolute inset-0 w-full h-full transform scale-0 bg-orange-100 opacity-30 group-hover:scale-100 transition-transform duration-500 ease-out rounded-full"
+            ></span>
+            <span class="relative z-10">Confirma tu asistencia</span>
+          </a>
+        </div>
       </div>
-    </div>
+
+      </div>
 
     <!-- Sección "Sobre nosotros" -->
     <div class="max-w-3xl mx-auto px-6 py-16 text-gray-800 text-justify">
