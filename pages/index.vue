@@ -9,7 +9,7 @@
       <div class="relative z-10 flex flex-col items-center space-y-6 mt-24">
         <h1 class="text-5xl sm:text-6xl font-garamond drop-shadow-md">Ángela y David</h1>
 
-        <div class="space-y-1 text-3xl sm:text-6xl font-light drop-shadow-sm">
+        <div class="space-y-1 text-xl sm:text-3xl md:text-5xl font-light drop-shadow-sm">
           <p>13 de septiembre de 2025</p>
           <p>Iglesia de Santa Cruz, Sevilla</p>
         </div>
