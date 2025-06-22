@@ -11,7 +11,7 @@
         </div>
         <div class="p-8 md:w-1/2 flex flex-col justify-between">
           <div>
-            <h2 class="text-3xl font-serif font-semibold mb-4 text-pink-800">Iglesia de Santa Cruz de Sevilla</h2>
+            <h2 class="text-2xl font-serif font-semibold mb-4 text-pink-800">Iglesia de Santa Cruz de Sevilla</h2>
             <p class="mb-4 text-justify text-gray-700 leading-relaxed">
               La ceremonia será a las <strong>18:15h</strong>. Te recomendamos venir andando o en taxi/VTC.
               Si vienes en coche, hay un parking de pago cerca (Cano y Cueto), aunque suele llenarse rápido.
@@ -37,7 +37,7 @@
         </div>
         <div class="p-8 md:w-1/2 flex flex-col justify-between">
           <div>
-            <h2 class="text-3xl font-serif font-semibold mb-4 text-pink-800">Hacienda Atalaya Alta</h2>
+            <h2 class="text-2xl font-serif font-semibold mb-4 text-pink-800">Hacienda Atalaya Alta</h2>
             <p class="mb-4 text-justify text-gray-700 leading-relaxed">
               Aquí se celebrará el banquete. La Hacienda cuenta con un amplio parking gratuito en la entrada, así que
               no tendrás problema para aparcar si vienes en coche.
