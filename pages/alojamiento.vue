@@ -16,7 +16,7 @@
             <div>
               <h3 class="text-2xl font-semibold mb-2">Hotel Meliã Sevilla</h3>
               <p class="mb-2 text-sm text-gray-600"><strong>Precio:</strong> 210€/noche 2 pax con desayuno</p>
-              <p class="mb-2 text-sm text-gray-600">Reserva online en el enlace <strong>Boda Ángela y David</strong></p>
+              <p class="mb-2 text-sm text-gray-600">Reserva online en el enlace <a href="https://events.melia.com/es/events/melia-sevilla/Boda--ngela-y-David" target="_blank" class="text-pink-600 hover:text-pink-800 font-medium">Boda Ángela y David</a></p>
               <p class="mb-4 text-sm text-gray-600">Distancia a pie: 21 min (1,5 km) a la iglesia, 21 min (1,5 km) desde Plaza de Cuba.</p>
               <p class="text-justify">Hotel moderno de 4 estrellas ubicado en el centro de Sevilla, frente a la Plaza de España y junto al Parque de María Luisa. Ofrece habitaciones elegantes, piscina al aire libre y una excelente conexión con los principales puntos de interés de la ciudad.</p>
             </div>
@@ -31,8 +31,8 @@
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
               <h3 class="text-2xl font-semibold mb-2">Hotel Tayko Sevilla</h3>
-              <p class="mb-2 text-sm text-gray-600"><strong>Precio:</strong> desde €/noche 2 pax (mínimo 2 noches)</p>
-              <p class="mb-2 text-sm text-gray-600">Reserva online en la web <a href="https://taykohotels.com/sevilla/" target="_blank" class="text-pink-600 hover:text-pink-800 font-medium">taykohotels.com/sevilla/</a> con el código <strong>David&amp;Angela</strong> (seleccionando tarifa flexible).</p>
+              <p class="mb-2 text-sm text-gray-600"><strong>Precio:</strong> desde 316€/noche 2 pax (mínimo 2 noches)</p>
+              <p class="mb-2 text-sm text-gray-600">Reservas llamando al +34 955 830 047 o enviando un correo a sevilla@taykohotels.com y facilitando el código <b>David&Angela</b></p>
               <p class="mb-4 text-sm text-gray-600">Distancia a pie: 11 min (800 m) a la iglesia, 7 min (450 m) desde Plaza de Cuba.</p>
               <p class="text-justify">Hotel boutique de 4 estrellas, ubicado en el corazón de Sevilla, junto a la Puerta de Jerez. Su ubicación es la más ideal para los invitados. Ofrece habitaciones elegantes con techos altos y grandes ventanales, además de un restaurante de cocina local y un ambiente moderno y acogedor. Plazas muy limitadas.</p>
             </div>
