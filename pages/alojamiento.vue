@@ -7,6 +7,22 @@
       <div>
         <h2 class="text-2xl font-semibold mb-6 border-b-2 border-pink-600 pb-2">Opciones con descuentos</h2>
 
+        <!-- Hotel Fernando III -->
+        <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
+          <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
+            <img src="/images/hotel3.jpg" alt="Hotel Fernando III" class="absolute inset-0 w-full h-full object-cover" />
+          </div>
+          <div class="p-6 md:w-1/2 flex flex-col justify-between">
+            <div>
+              <h3 class="text-2xl font-semibold mb-2">Hotel Fernando III</h3>
+              <p class="mb-2 text-sm text-gray-600"><strong>Precio:</strong> desde 185€/noche 2 pax</p>
+              <p class="mb-2 text-sm text-gray-600">Reservas enviando un correo a reservas@hotelfernandoiii.es con el asunto <b>"ANGELA&DAVID1309</b></p>
+              <p class="mb-4 text-sm text-gray-600">Distancia a pie: 3 min (200 m) a la iglesia, 20 min (1,4 km) desde Plaza de Cuba.</p>
+              <p class="text-justify">Elegante hotel de 4 estrellas situado en el corazón del barrio de Santa Cruz, a pocos pasos de la iglesia de Santa Cruz. Ofrece habitaciones modernas y confortables, una terraza en la azotea con piscina y vistas panorámicas de la ciudad, y un restaurante que sirve cocina andaluza y europea. Excelente opción para los invitados que deseen disfrutar de Sevilla durante el fin de semana.</p>
+            </div>
+          </div>
+        </div>
+
         <!-- Hotel Meliã Sevilla -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
@@ -35,21 +51,6 @@
               <p class="mb-2 text-sm text-gray-600">Reservas llamando al +34 955 830 047 o enviando un correo a sevilla@taykohotels.com y facilitando el código <b>David&Angela</b></p>
               <p class="mb-4 text-sm text-gray-600">Distancia a pie: 11 min (800 m) a la iglesia, 7 min (450 m) desde Plaza de Cuba.</p>
               <p class="text-justify">Hotel boutique de 4 estrellas, ubicado en el corazón de Sevilla, junto a la Puerta de Jerez. Su ubicación es la más ideal para los invitados. Ofrece habitaciones elegantes con techos altos y grandes ventanales, además de un restaurante de cocina local y un ambiente moderno y acogedor. Plazas muy limitadas.</p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Hotel Fernando III -->
-        <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
-          <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel3.jpg" alt="Hotel Fernando III" class="absolute inset-0 w-full h-full object-cover" />
-          </div>
-          <div class="p-6 md:w-1/2 flex flex-col justify-between">
-            <div>
-              <h3 class="text-2xl font-semibold mb-2">Hotel Fernando III</h3>
-              <p class="mb-2 text-sm text-gray-600"><strong>Precio:</strong> desde €/noche 2 pax</p>
-              <p class="mb-4 text-sm text-gray-600">Distancia a pie: 3 min (200 m) a la iglesia, 20 min (1,4 km) desde Plaza de Cuba.</p>
-              <p class="text-justify">Elegante hotel de 4 estrellas situado en el corazón del barrio de Santa Cruz, a pocos pasos de la iglesia de Santa Cruz. Ofrece habitaciones modernas y confortables, una terraza en la azotea con piscina y vistas panorámicas de la ciudad, y un restaurante que sirve cocina andaluza y europea. Excelente opción para los invitados que deseen disfrutar de Sevilla durante el fin de semana.</p>
             </div>
           </div>
         </div>

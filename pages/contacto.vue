@@ -10,7 +10,7 @@
     <div class="max-w-4xl mx-auto grid gap-10 md:grid-cols-2">
       <!-- Tarjeta David -->
       <div class="bg-white rounded-2xl shadow-xl p-6 flex flex-col gap-4">
-        <h2 class="text-2xl font-semibold text-pink-700">David Cáceres Aycart</h2>
+        <h2 class="text-xl font-semibold text-pink-700">David Cáceres Aycart</h2>
         <div class="flex items-center gap-3 text-gray-700">
           📞 <a href="tel:+34675981014" class="hover:text-pink-600 font-medium">+34 675 98 10 14</a>
         </div>
@@ -21,7 +21,7 @@
 
       <!-- Tarjeta Ángela -->
       <div class="bg-white rounded-2xl shadow-xl p-6 flex flex-col gap-4">
-        <h2 class="text-2xl font-semibold text-pink-700">Ángela Fernández Herrera</h2>
+        <h2 class="text-xl font-semibold text-pink-700">Ángela Fernández Herrera</h2>
         <div class="flex items-center gap-3 text-gray-700">
           📞 <a href="tel:+34653542453" class="hover:text-pink-600 font-medium">+34 653 54 24 53</a>
         </div>
