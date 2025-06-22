@@ -10,7 +10,7 @@
         <!-- Hotel Fernando III -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel3.jpg" alt="Hotel Fernando III" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/fernandoiii.jpeg" alt="Hotel Fernando III" class="absolute inset-0 w-full h-full object-cover" />
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
@@ -26,7 +26,7 @@
         <!-- Hotel Meliã Sevilla -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel2.jpg" alt="Hotel Meliã Sevilla" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/melia.jpeg" alt="Hotel Meliã Sevilla" class="absolute inset-0 w-full h-full object-cover" />
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
@@ -42,7 +42,7 @@
         <!-- Hotel Tayko Sevilla -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel1.jpg" alt="Hotel Tayko Sevilla" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/tayko.jpeg" alt="Hotel Tayko Sevilla" class="absolute inset-0 w-full h-full object-cover" />
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
@@ -63,7 +63,7 @@
         <!-- Hotel Eurostars Guadalquivir -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel2.jpg" alt="Hotel Eurostars Guadalquivir" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/guada.jpeg" alt="Hotel Eurostars Guadalquivir" class="absolute inset-0 w-full h-full object-cover" />
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
@@ -79,7 +79,7 @@
         <!-- Hotel Alcázar -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel1.jpg" alt="Hotel Alcázar" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/alcazar.jpeg" alt="Hotel Alcázar" class="absolute inset-0 w-full h-full object-cover" />
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
@@ -95,7 +95,7 @@
         <!-- Hotel Murillo -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
           <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel3.jpg" alt="Hotel Murillo" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/murillo.jpeg" alt="Hotel Murillo" class="absolute inset-0 w-full h-full object-cover" />
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
