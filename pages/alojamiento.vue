@@ -5,7 +5,7 @@
     <div class="max-w-5xl mx-auto space-y-12">
       <!-- Opciones con descuentos -->
       <div>
-        <h2 class="text-3xl font-semibold mb-6 border-b-2 border-pink-600 pb-2">Opciones con descuentos</h2>
+        <h2 class="text-2xl font-semibold mb-6 border-b-2 border-pink-600 pb-2">Opciones con descuentos</h2>
 
         <!-- Hotel Meliã Sevilla -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
@@ -57,7 +57,7 @@
 
       <!-- Otras opciones sin descuento -->
       <div>
-        <h2 class="text-3xl font-semibold mb-6 border-b-2 border-pink-600 pb-2">Otras opciones sin descuento</h2>
+        <h2 class="text-2xl font-semibold mb-6 border-b-2 border-pink-600 pb-2">Otras opciones sin descuento</h2>
 
         <!-- Hotel Eurostars Guadalquivir -->
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">

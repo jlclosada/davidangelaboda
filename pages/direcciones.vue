@@ -11,9 +11,9 @@
         </div>
         <div class="p-8 md:w-1/2 flex flex-col justify-between">
           <div>
-            <h2 class="text-2xl font-serif font-semibold mb-4 text-pink-800">Iglesia de Santa Cruz de Sevilla</h2>
+            <h2 class="text-2xl font-serif font-semibold mb-4 text-pink-800">Iglesia de Santa Cruz</h2>
             <p class="mb-4 text-justify text-gray-700 leading-relaxed">
-              La ceremonia será a las <strong>18:15h</strong>. Te recomendamos venir andando o en taxi/VTC.
+              La ceremonia será a las <b>18:15h</b>. Te recomendamos venir andando o en taxi/VTC.
               Si vienes en coche, hay un parking de pago cerca (Cano y Cueto), aunque suele llenarse rápido.
               También está el parking Avenida Roma, a 10 minutos a pie.
             </p>
