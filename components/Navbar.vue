@@ -5,7 +5,7 @@
         <!-- Título como enlace -->
         <NuxtLink to="/"
           class="text-xl font-semibold text-gray-800 hover:text-gold transition duration-300 transform hover:scale-105">
-          A y D | 2025
+          A & D | 2025
         </NuxtLink>
 
         <div class="hidden md:flex space-x-6 text-lg font-medium">
