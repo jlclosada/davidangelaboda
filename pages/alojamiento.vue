@@ -14,9 +14,9 @@
           </div>
           <div class="p-6 md:w-1/2 flex flex-col justify-between">
             <div>
-              <h3 class="text-2xl font-semibold mb-2">Hotel Fernando III</h3>
+              <h3 class="text-2xl font-semibold mb-2">Hotel Fernando III (Recomendado)</h3>
               <p class="mb-2 text-sm text-gray-600"><strong>Precio:</strong> desde 185€/noche 2 pax</p>
-              <p class="mb-2 text-sm text-gray-600">Reservas enviando un correo a reservas@hotelfernandoiii.es con el asunto <b>"ANGELA&DAVID1309</b></p>
+              <p class="mb-2 text-sm text-gray-600">Reservas enviando un correo a reservas@hotelfernandoiii.es con el asunto <b>"ANGELA&DAVID1309"</b></p>
               <p class="mb-4 text-sm text-gray-600">Distancia a pie: 3 min (200 m) a la iglesia, 20 min (1,4 km) desde Plaza de Cuba.</p>
               <p class="text-justify">Elegante hotel de 4 estrellas situado en el corazón del barrio de Santa Cruz, a pocos pasos de la iglesia de Santa Cruz. Ofrece habitaciones modernas y confortables, una terraza en la azotea con piscina y vistas panorámicas de la ciudad, y un restaurante que sirve cocina andaluza y europea. Excelente opción para los invitados que deseen disfrutar de Sevilla durante el fin de semana.</p>
             </div>
@@ -88,22 +88,6 @@
               <p class="mb-2 text-sm text-gray-600">Reserva online en su web: <a href="https://www.hotelalcazar.com/es/" target="_blank" class="text-pink-600 hover:text-pink-800 font-medium">hotelalcazar.com</a></p>
               <p class="mb-4 text-sm text-gray-600">Distancia a pie: 9 min (650 m) a la iglesia, 17 min (1,2 km) desde Plaza de Cuba.</p>
               <p class="text-justify">Alojamiento de 3 estrellas ubicado en el centro histórico de Sevilla, frente al barrio de Santa Cruz y los Jardines de Murillo. Ofrece habitaciones renovadas con vistas a monumentos como la Catedral y el Real Alcázar.</p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Hotel Monte Carmelo -->
-        <div class="bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row mb-8">
-          <div class="relative w-full md:w-1/2 aspect-video overflow-hidden">
-            <img src="/images/hotel1.jpg" alt="Hotel Monte Carmelo" class="absolute inset-0 w-full h-full object-cover" />
-          </div>
-          <div class="p-6 md:w-1/2 flex flex-col justify-between">
-            <div>
-              <h3 class="text-2xl font-semibold mb-2">Hotel Monte Carmelo</h3>
-              <p class="mb-2 text-sm text-gray-600"><strong>Precio aprox.:</strong> desde 135€/noche 2 pax (mínimo 2 noches)</p>
-              <p class="mb-2 text-sm text-gray-600">Reserva online en su web: <a href="https://www.hotel-montecarmelo.com/" target="_blank" class="text-pink-600 hover:text-pink-800 font-medium">hotel-montecarmelo.com</a></p>
-              <p class="mb-4 text-sm text-gray-600">Distancia a pie: 23 min (1,6 km) a la iglesia, 6 min (400 m) desde Plaza de Cuba.</p>
-              <p class="text-justify">Alojamiento de 4 estrellas situado en el barrio de Los Remedios, a solo 10 minutos a pie del centro histórico de Sevilla. Ofrece habitaciones modernas y confortables, desayuno buffet y parking privado, siendo una opción ideal para los invitados que deseen pasar el fin de semana completo en Sevilla.</p>
             </div>
           </div>
         </div>
