@@ -13,7 +13,7 @@
 
       <div class="bg-pink-50 border border-pink-200 rounded-2xl shadow-md p-6 mt-8 text-center">
         <h2 class="text-xl font-semibold mb-4 text-pink-700">Datos bancarios</h2>
-        <div class="flex items-center justify-center gap-3 font-mono text-lg text-gray-700">
+        <div class="flex items-center justify-center gap-3 font-mono text-sm text-gray-700">
           <span>{{ account }}</span>
 
           <div class="relative group">
