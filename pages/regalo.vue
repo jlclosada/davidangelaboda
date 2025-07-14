@@ -42,7 +42,7 @@
 
 <script setup>
 import { ref } from 'vue';
-const account = 'ES60 0239 0806 7737 6558 4325';
+const account = 'ES10 0128 7820 8901 0420 6194';
 
 // Estado para mostrar el mensaje "Copiado"
 const copied = ref(false);
